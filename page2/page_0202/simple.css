@@ -1,0 +1,19 @@
+.thing {
+  width: 50%;
+}
+
+@media screen and (min-width: 30rem) {
+  .thing {
+    width: 75%;
+  }
+}
+
+.thing1 {
+  width: 65%;
+}
+
+@media screen and (min-width: 30rem) {
+  .thing1 {
+    width: 75%;
+  }
+}

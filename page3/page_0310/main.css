@@ -1,0 +1,24 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: #ebebeb;
+}
+
+.FlexWrapper {
+  background-color: indigo;
+  display: flex;
+  height: 200px;
+  widows: 400px;
+}
+
+.FlexInner {
+  background-color: #34005b;
+  display: flex;
+  height: 100px;
+  widows: 200px;
+}
+
+.AlignSelf {
+  align-self: flex-end;
+}
